@@ -22,7 +22,3 @@ Click on the extension icon in your browser to open the popup. Use the toggles t
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
